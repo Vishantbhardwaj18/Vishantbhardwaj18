@@ -6,7 +6,89 @@
   </a>
 </p>
 
+<!-- ========== HEADER ========== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&duration=2000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&height=70&lines=Hi+👋+I'm+Vishant+Bhardwaj;Founder+%7C+Product+Management;Building+MaVionix+🚀;Turning+Ideas+Into+Products" />
+</p>
 
+<h1 align="center">Hi 👋, I'm Vishant Bhardwaj</h1>
+<h3 align="center">🚀 Founder | Product Management | Building Scalable Products</h3>
+
+---
+
+### 🔥 About Me
+- 🚀 Founder of **MaVionix**
+- 🧠 Passionate about **Product Management & Startups**
+- 📊 Focused on building **real-world, scalable products**
+- 🌱 Learning **Product Strategy • Growth • AI SaaS**
+- 📫 **vishantbhardwaj06@gmail.com**
+
+---
+
+### 💼 Experience
+
+#### 🚀 MaVionix | Co-Founder & Product Management Intern  
+📅 July 2025 – Present  
+- Building a product-first digital startup  
+- Leading **end-to-end product lifecycle** (idea → launch)  
+- Defining product vision, roadmap & KPIs  
+- Working across design, development & AI  
+- Improved product positioning by **25%**  
+- Reduced turnaround time by **30%**
+
+---
+
+#### 🏢 Noikix | Product Lead & Co-Founder  
+📅 Oct 2024 – Present  
+- Built a rental platform for small businesses  
+- Defined MVP, roadmap & UX flow  
+- Reduced booking time by **30%**  
+- Led development with a small team  
+
+---
+
+#### 📦 SRM Delivery System | Product Manager  
+📅 Jan 2025  
+- Built real-time campus delivery solution  
+- Designed user flows & MVP scope  
+- Delivered prototype using Agile  
+
+---
+
+### 🎓 Education
+
+- 🎓 BS in Management & Data Science  
+  - IIT Madras (2029)  
+
+- 🎓 B.Tech CSE (Data Science)  
+  - SRM IST Ghaziabad (2028)  
+
+---
+
+### 🧠 Skills
+
+**Product:** Product Thinking • MVP • Roadmaps • User Research • Agile  
+**Data:** KPI Tracking • Funnel Analysis • Excel • Pandas  
+**Design:** Figma • Wireframing • UX  
+**Tech:** Python • SQL • Firebase  
+
+---
+
+### 🏆 Achievements
+
+- 🥇 Winner – IIT Hyderabad Tech Expo  
+- 🥉 3rd – Innovathon (University of Jammu)  
+- 🏅 Anveshana Recognition  
+- 🚀 Multiple Hackathon Finalist  
+- 📺 YouTube Creator (2K+ subs)  
+
+---
+
+### 🌍 Connect
+<p>
+<a href="https://linkedin.com/in/vishant-bhardwaj">LinkedIn</a> •
+<a href="mailto:vishantbhardwaj06@gmail.com">Email</a>
+</p>
 
 <h1 align="center">Hi 👋, I'm <b>Vishant Bhardwaj</b></h1>
 <h3 align="center">📊 Data Scientist | Data Analyst | Product-focused Problem Solver</h3>
