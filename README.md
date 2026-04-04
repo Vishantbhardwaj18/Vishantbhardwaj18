@@ -1,8 +1,9 @@
 <!-- ========== HEADER ========== -->
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=28&duration=2000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Vishant+Bhardwaj;Co-Founder+|+Product+Management;Building+MaVionix+🚀;Turning+Ideas+Into+Scalable+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=900&size=42&duration=2200&pause=800&color=00E5FF&center=true&vCenter=true&width=1100&height=90&lines=Hi+👋+I'm+Vishant+Bhardwaj;🚀+Co-Founder+@+MaVionix;💡+Product+Management+%7C+AI+%7C+Data+Science;🏆+Hackathon+Winner+%7C+Innovator;📈+Building+Scalable+Digital+Products;🤝+Open+to+Collaborations+%26+Opportunities" />
 </p>
+
 
 <!-- ========== HEADER ========== -->
 <p align="center">
