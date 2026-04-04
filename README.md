@@ -115,17 +115,34 @@
 ---
 
 <!-- ========== QUOTE ========== -->
-### 💡 Quote I Live By
+<h2 align="center">💡 Thought I Build By</h2>
+
 <p align="center">
-  <em>“Build products that solve real problems — everything else follows.”</em>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C4FF&center=true&vCenter=true&lines=Build+products+that+solve+real+problems;Everything+else+follows+🚀" />
+</p>
+
+<p align="center">
+  <em style="font-size:18px;">
+    “Build products that solve real problems — everything else follows.”
+  </em>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C4FF,100:007BFF&height=2"/>
 </p>
 
 ---
 
 <!-- ========== FOOTER ========== -->
+<h3 align="center">💜 Support My Work</h3>
+
 <p align="center">
-  <b>💜 If you like my work, consider giving a star ⭐ to my repos — it helps a lot!</b>
-  <br><br>
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
+  <b>If you like what I build, consider giving a ⭐ to my repositories</b><br>
+  <i>It truly helps and keeps me motivated to create more 🚀</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/vishantbhardwaj18?tab=repositories">
+    <img src="https://img.shields.io/badge/⭐%20Star%20My%20Repos-00C4FF?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
