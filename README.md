@@ -1,21 +1,19 @@
 <!-- ========== HEADER ========== -->
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=900&size=42&duration=2200&pause=800&color=00E5FF&center=true&vCenter=true&width=1100&height=90&lines=Hi+👋+I'm+Vishant+Bhardwaj;🚀+Co-Founder+@+MaVionix;💡+Product+Management+%7C+AI+%7C+Data+Science;🏆+Hackathon+Winner+%7C+Innovator;📈+Building+Scalable+Digital+Products;🤝+Open+to+Collaborations+%26+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=900&size=42&duration=2200&pause=800&color=00E5FF&center=true&vCenter=true&width=1100&height=90&lines=Hi+👋+I'm+Vishant+Bhardwaj;🚀+Co-Founder+@+MaVionix;💡+Product+Management+%7C+AI+%7C+Data+Science;🏆+Many+Hackathons+Winner+%7C+Innovator;📈+Building+Scalable+Digital+Products" />
 </p>
 
 
 <!-- ========== HEADER ========== -->
+<h3 align="center">👀 Profile Visitors</h3>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishantbhardwaj18&label=Profile%20views&color=00c4ff&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=vishantbhardwaj18&label=Visitors&color=ff69b4&style=for-the-badge" alt="views"/>
 </p>
 
-
-
 <p align="center">
-  <a href="https://twitter.com/vishantgamerz" target="blank">
-    <img src="https://img.shields.io/twitter/follow/vishantgamerz?logo=twitter&style=for-the-badge" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!&center=true&width=500&height=30">
 </p>
 
 ---
@@ -73,7 +71,6 @@
   </a>
 </p>
 
-
 ---
 
 <!-- ========== SKILLS ========== -->
@@ -104,7 +101,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00C4FF&center=true&vCenter=true&lines=Tracking+My+Coding+Journey;Building+Consistently+🚀;Open+Source+%7C+Projects+%7C+Growth" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishantbhardwaj18&theme=tokyonight&hide_border=true&border_radius=10&ring=00C4FF&fire=00C4FF&currStreakLabel=00C4FF" height="190"/>
 </p>
