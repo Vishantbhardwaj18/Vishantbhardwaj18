@@ -118,26 +118,12 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
 
-<!-- ========== QUOTE ========== -->
-<h3 align="center">💡 Thought I Build By</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C4FF&center=true&vCenter=true&lines=Build+products+that+solve+real+problems;Everything+else+follows+🚀" />
-</p>
-
-<p align="center">
-  <em style="font-size:18px;">
-    “Build products that solve real problems — everything else follows.”
-  </em>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C4FF,100:007BFF&height=2"/>
 </p>
 
----
 
 <!-- ========== FOOTER ========== -->
 <h3 align="center">💜 Support My Work</h3>
