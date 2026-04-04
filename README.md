@@ -94,15 +94,22 @@
 
 ---
 
-<!-- ========== ACHIEVEMENT CARDS ========== -->
-### 📊 GitHub Analytics & Stats
+<h2 align="center">📊 GitHub Analytics & Performance</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishantbhardwaj18&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishantbhardwaj18&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C4FF&center=true&vCenter=true&lines=Tracking+My+Coding+Journey;Building+Consistently+🚀;Open+Source+%7C+Projects+%7C+Growth" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishantbhardwaj18&theme=tokyonight" height="185"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishantbhardwaj18&theme=tokyonight&hide_border=true&border_radius=10&ring=00C4FF&fire=00C4FF&currStreakLabel=00C4FF" height="190"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishantbhardwaj18&theme=tokyonight" width="95%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vishantbhardwaj18&theme=algolia&no-frame=true&margin-w=10&column=6" />
 </p>
 
 ---
