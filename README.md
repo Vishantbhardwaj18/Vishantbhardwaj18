@@ -31,43 +31,48 @@
 
 ---
 
-<!-- ========== SOCIAL ========== -->
-### 🌍 Connect With Me
+<h2 align="center">🌍 Let's Connect & Collaborate</h2>
+
 <p align="center">
-
-<a href="https://linkedin.com/in/vishant-bhardwaj" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://twitter.com/vishantgamerz" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-
-<a href="https://kaggle.com/vishantbhardwaj18" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/vishant_bhardwaj_18" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.youtube.com/@vishant_bhardwaj" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="https://github.com/vishantbhardwaj18" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/vishantbhardwaj" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="mailto:vishantbhardwaj06@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C4FF&center=true&vCenter=true&lines=Open+to+Collaborations;Building+MaVionix+🚀;AI+%7C+Product+%7C+Tech;Let's+Build+Something+Amazing!" />
 </p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/vishant-bhardwaj" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Vishant%20Bhardwaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://twitter.com/vishantgamerz" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@vishantgamerz-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  
+  <a href="https://kaggle.com/vishantbhardwaj18" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Data%20Science-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+  
+  <a href="https://leetcode.com/vishantbhardwaj" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://instagram.com/vishant_bhardwaj_18" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@vishant__bhardwaj__18-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.youtube.com/@vishant_bhardwaj" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Content%20Creator-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/vishantbhardwaj18" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Projects%20%26%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:vishantbhardwaj06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's%20Talk-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 
 ---
 
