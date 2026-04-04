@@ -109,9 +109,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishantbhardwaj18&theme=tokyonight" width="95%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishantbhardwaj18&theme=algolia&no-frame=true&margin-w=10&column=6" />
-</p>
 
 ---
 
@@ -124,7 +121,7 @@
 ---
 
 <!-- ========== QUOTE ========== -->
-<h2 align="center">💡 Thought I Build By</h2>
+<h3 align="center">💡 Thought I Build By</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00C4FF&center=true&vCenter=true&lines=Build+products+that+solve+real+problems;Everything+else+follows+🚀" />
