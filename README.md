@@ -1,107 +1,15 @@
 <!-- ========== HEADER ========== -->
 <!-- Typing Animation -->
 <p align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&duration=2000&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&height=70&lines=Hi+👋+I'm+Vishant+Bhardwaj;Data+Scientist+%7C+Data+Analyst+%7C+ML+Engineer;Turning+Data+Into+Decisions+🔮;Always+Learning+Always+Building+🚀" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=28&duration=2000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Vishant+Bhardwaj;Co-Founder+|+Product+Management;Building+MaVionix+🚀;Turning+Ideas+Into+Scalable+Products" />
 </p>
 
 <!-- ========== HEADER ========== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&duration=2000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&height=70&lines=Hi+👋+I'm+Vishant+Bhardwaj;Founder+%7C+Product+Management;Building+MaVionix+🚀;Turning+Ideas+Into+Products" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Vishant Bhardwaj</h1>
-<h3 align="center">🚀 Founder | Product Management | Building Scalable Products</h3>
-
----
-
-### 🔥 About Me
-- 🚀 Founder of **MaVionix**
-- 🧠 Passionate about **Product Management & Startups**
-- 📊 Focused on building **real-world, scalable products**
-- 🌱 Learning **Product Strategy • Growth • AI SaaS**
-- 📫 **vishantbhardwaj06@gmail.com**
-
----
-
-### 💼 Experience
-
-#### 🚀 MaVionix | Co-Founder & Product Management Intern  
-📅 July 2025 – Present  
-- Building a product-first digital startup  
-- Leading **end-to-end product lifecycle** (idea → launch)  
-- Defining product vision, roadmap & KPIs  
-- Working across design, development & AI  
-- Improved product positioning by **25%**  
-- Reduced turnaround time by **30%**
-
----
-
-#### 🏢 Noikix | Product Lead & Co-Founder  
-📅 Oct 2024 – Present  
-- Built a rental platform for small businesses  
-- Defined MVP, roadmap & UX flow  
-- Reduced booking time by **30%**  
-- Led development with a small team  
-
----
-
-#### 📦 SRM Delivery System | Product Manager  
-📅 Jan 2025  
-- Built real-time campus delivery solution  
-- Designed user flows & MVP scope  
-- Delivered prototype using Agile  
-
----
-
-### 🎓 Education
-
-- 🎓 BS in Management & Data Science  
-  - IIT Madras (2029)  
-
-- 🎓 B.Tech CSE (Data Science)  
-  - SRM IST Ghaziabad (2028)  
-
----
-
-### 🧠 Skills
-
-**Product:** Product Thinking • MVP • Roadmaps • User Research • Agile  
-**Data:** KPI Tracking • Funnel Analysis • Excel • Pandas  
-**Design:** Figma • Wireframing • UX  
-**Tech:** Python • SQL • Firebase  
-
----
-
-### 🏆 Achievements
-
-- 🥇 Winner – IIT Hyderabad Tech Expo  
-- 🥉 3rd – Innovathon (University of Jammu)  
-- 🏅 Anveshana Recognition  
-- 🚀 Multiple Hackathon Finalist  
-- 📺 YouTube Creator (2K+ subs)  
-
----
-
-### 🌍 Connect
-<p>
-<a href="https://linkedin.com/in/vishant-bhardwaj">LinkedIn</a> •
-<a href="mailto:vishantbhardwaj06@gmail.com">Email</a>
-</p>
-
-<h1 align="center">Hi 👋, I'm <b>Vishant Bhardwaj</b></h1>
-<h3 align="center">📊 Data Scientist | Data Analyst | Product-focused Problem Solver</h3>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=vishantbhardwaj18&label=Profile%20views&color=00c4ff&style=flat" alt="views" />
 </p>
 
-<p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=vishantbhardwaj18">
-    <img src="https://github-profile-trophy.vercel.app/?username=vishantbhardwaj18&theme=discord&margin-w=8&column=6" />
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://twitter.com/vishantgamerz" target="blank">
@@ -113,12 +21,12 @@
 
 <!-- ========== ABOUT ========== -->
 ### 🔥 About Me
-- 🔭 I’m currently working on **[MaVionix](www.mavionix.in)**
-- 🌱 Learning **Machine Learning • Deep Learning • Tableau/PowerBI • MLOps • Python for Data Engineering**
-- 📝 I write articles → **https://vishantbhardwaj.blogspot.com/**
-- 💬 Ask me about **Python • SQL • Pandas • NumPy • Excel Dashboards • Scikit-learn • Data Cleaning • KPI Design**
-- 📫 Contact me at **vishantbhardwaj06@gmail.com**
-- ⚡ Fun fact — _I turn data into decisions… and still believe I’m funny 😄_
+- 🔭 I’m currently building **MaVionix** – a product-driven digital & AI solutions startup  
+- 🌱 Learning **Product Strategy • Growth • AI SaaS • System Design • Analytics for PMs**  
+- 📝 I write about product & startups → **https://vishantbhardwaj.blogspot.com/**  
+- 💬 Ask me about **Product Management • MVP • User Research • UX • Growth • Startups**  
+- 📫 Contact me at **vishantbhardwaj06@gmail.com**  
+- ⚡ Fun fact — _I turn ideas into products… and still believe I’m funny 😄_
 
 ---
 
@@ -160,7 +68,6 @@
 
 </p>
 
-
 ---
 
 <!-- ========== SKILLS ========== -->
@@ -183,7 +90,6 @@
 <img src="https://skillicons.dev/icons?i=arduino" height="50"/>
 
 </p>
-
 
 ---
 
@@ -211,7 +117,7 @@
 <!-- ========== QUOTE ========== -->
 ### 💡 Quote I Live By
 <p align="center">
-  <em>“Data is the new oil, but only if you refine it.”</em>
+  <em>“Build products that solve real problems — everything else follows.”</em>
 </p>
 
 ---
