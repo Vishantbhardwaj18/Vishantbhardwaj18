@@ -3,13 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1026,55:1E3A8A,100:7DD3FC&text=Vishant%20Bhardwaj&fontColor=FFD400&fontSize=62&fontAlignY=36&desc=Astro-AI%20Product%20Researcher&descSize=22&descAlignY=58&animation=fadeIn" width="100%" alt="Vishant Bhardwaj — Astro-AI Product Researcher"/>
 </p>
 
-<p align="center">
-  <a href="https://esawebb.org/images/weic2205a/">
-    <img src="https://cdn.esawebb.org/archives/images/screen/weic2205a.jpg" width="100%" alt="The Cosmic Cliffs in the Carina Nebula, imaged by the James Webb Space Telescope"/>
-  </a>
-  <br/>
-  <sub><i>“Cosmic Cliffs”, Carina Nebula · James Webb Space Telescope · Credit: NASA, ESA, CSA, STScI</i></sub>
-</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
