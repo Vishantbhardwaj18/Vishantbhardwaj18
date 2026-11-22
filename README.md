@@ -1,6 +1,14 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="./assets/banner.jpg" alt="Vishant Bhardwaj — Astro-AI Product Researcher" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1026,55:1E3A8A,100:7DD3FC&text=Vishant%20Bhardwaj&fontColor=FFD400&fontSize=62&fontAlignY=36&desc=Astro-AI%20Product%20Researcher&descSize=22&descAlignY=58&animation=fadeIn" width="100%" alt="Vishant Bhardwaj — Astro-AI Product Researcher"/>
+</p>
+
+<p align="center">
+  <a href="https://esawebb.org/images/weic2205a/">
+    <img src="https://cdn.esawebb.org/archives/images/screen/weic2205a.jpg" width="100%" alt="The Cosmic Cliffs in the Carina Nebula, imaged by the James Webb Space Telescope"/>
+  </a>
+  <br/>
+  <sub><i>“Cosmic Cliffs”, Carina Nebula · James Webb Space Telescope · Credit: NASA, ESA, CSA, STScI</i></sub>
 </p>
 
 <p align="center">
@@ -130,15 +138,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishantbhardwaj18&theme=tokyo-night&bg_color=0B1026&color=7DD3FC&line=FFD400&point=FFFFFF&hide_border=true&radius=12" width="95%" alt="Contribution activity graph"/>
-</p>
-
-<!-- Snake: generated daily by .github/workflows/snake.yml into the "output" branch -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishantbhardwaj18/vishantbhardwaj18/output/github-snake-space.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishantbhardwaj18/vishantbhardwaj18/output/github-snake.svg"/>
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/vishantbhardwaj18/vishantbhardwaj18/output/github-snake-space.svg"/>
-  </picture>
 </p>
 
 ---
