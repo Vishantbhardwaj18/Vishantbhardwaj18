@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Vishant Bhardwaj · Astro-AI Product Researcher"/>
+  <img src=".github/workflows/header.svg" width="100%" alt="Vishant Bhardwaj · Astro-AI Product Researcher"/>
 </p>
 
 <p align="center">
