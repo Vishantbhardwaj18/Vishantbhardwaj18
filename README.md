@@ -258,7 +258,7 @@ timeline
 
 <p align="center"><i>If you like what I build, a ⭐ on a repo truly helps and keeps me launching more 🚀</i></p>
 
-<p align="center"><b>Built on Earth 🌍 · Aimed at the stars ✨</b></p>
+<p align="center"><b>Built on Earth 🌍 · Aimed at the Galaxies✨</b></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:1E3A8A,100:7DD3FC&height=120&section=footer" width="100%"/>
