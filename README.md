@@ -9,15 +9,6 @@
   </a>
 </p>
 
-<!-- quick links -->
-<p align="center">
-  <a href="https://linkedin.com/in/vishant-bhardwaj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.youtube.com/@vishant_bhardwaj"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://instagram.com/vishant_bhardwaj_18"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://mavionix.in"><img src="https://img.shields.io/badge/mavionix.in-0B1026?style=flat-square&logo=rocket&logoColor=7DD3FC" alt="MaVionix"/></a>
-  <a href="mailto:vishantbhardwaj06@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=vishantbhardwaj18&label=Visitors&color=0B1026&style=flat-square" alt="Profile visitors"/>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Conference_Papers-8-7DD3FC?style=for-the-badge&labelColor=0B1026" alt="8 conference papers"/>
@@ -26,7 +17,7 @@
   <img src="https://img.shields.io/badge/Hackathon_Wins-3-FB923C?style=for-the-badge&labelColor=0B1026" alt="3 hackathon wins"/>
 </p>
 
-<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
+<p align="center"><img src=".github/workflows/divider.svg" width="100%" alt=""/></p>
 
 <!-- ===================== ABOUT ===================== -->
 ## 🧑‍🚀 Crew Manifest
@@ -86,7 +77,7 @@ class AstroAIProductResearcher:
   <img src="https://img.shields.io/badge/Agile_%26_Scrum-7C5E00?style=flat-square"/>
 </p>
 
-<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
+<p align="center"><img src=".github/workflows/divider.svg" width="100%" alt=""/></p>
 
 <!-- ===================== FLIGHT PATH ===================== -->
 ## 🛰️ Flight Path
@@ -160,7 +151,7 @@ timeline
 
 </details>
 
-<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
+<p align="center"><img src=".github/workflows/divider.svg" width="100%" alt=""/></p>
 
 <!-- ===================== PROJECTS ===================== -->
 ## 🚀 Launchpad
@@ -175,10 +166,12 @@ timeline
 | 🩺 | **MVediScan AI** | Deep-learning mobile assistant for multi-modal medical analysis | HealthTech |
 | 🚁 | **Drone Medical Supply** | Autonomous drone delivery of medical supplies to remote army zones | Defense |
 
-<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
+<p align="center"><img src=".github/workflows/divider.svg" width="100%" alt=""/></p>
 
 <!-- ===================== ACHIEVEMENTS ===================== -->
 ## 🏆 Hall of Fame
+
+<div align="center">
 
 <table>
 <tr>
@@ -193,7 +186,9 @@ timeline
 </tr>
 </table>
 
-<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
+</div>
+
+<p align="center"><img src=".github/workflows/divider.svg" width="100%" alt=""/></p>
 
 <!-- ===================== SKILLS ===================== -->
 ## 🧰 Tech Stack
@@ -209,7 +204,7 @@ timeline
   <img src="https://skillicons.dev/icons?i=arduino,figma,notion,vscode,vercel" height="48"/>
 </p>
 
-<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
+<p align="center"><img src=".github/workflows/divider.svg" width="100%" alt=""/></p>
 
 <!-- ===================== STATS ===================== -->
 ## 📊 Telemetry
@@ -233,7 +228,7 @@ timeline
   </picture>
 </p>
 
-<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
+<p align="center"><img src=".github/workflows/divider.svg" width="100%" alt=""/></p>
 
 <!-- ===================== CONNECT ===================== -->
 ## 🌍 Let's Connect & Collaborate
