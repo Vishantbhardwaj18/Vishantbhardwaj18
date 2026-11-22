@@ -116,9 +116,6 @@
 <!-- ===================== STATS ===================== -->
 ## 📊 Telemetry
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vishantbhardwaj18&theme=tokyonight&hide_border=true&border_radius=12&background=0B1026&ring=7DD3FC&fire=FFD400&currStreakLabel=7DD3FC&sideLabels=C4B5FD" height="180" alt="GitHub streak"/>
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishantbhardwaj18&theme=tokyonight" width="90%" alt="Profile details"/>
